@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\topia1998\Desktop\족보\컴퓨터비전\과제\1\Image_Rotation_Exercise_20171663_이도훈\Image_Rotation\main.cpp(17,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\족보\컴퓨터비전\과제\1\Image_Rotation_Exercise_20171663_이도훈\Image_Rotation\main.cpp(18,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\족보\컴퓨터비전\과제\1\Image_Rotation_Exercise_20171663_이도훈\Image_Rotation\main.cpp(63,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\족보\컴퓨터비전\과제\1\Image_Rotation_Exercise_20171663_이도훈\Image_Rotation\main.cpp(64,8): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\족보\컴퓨터비전\과제\1\Image_Rotation_Exercise_20171663_이도훈\Image_Rotation\main.cpp(119,9): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\족보\컴퓨터비전\과제\1\Image_Rotation_Exercise_20171663_이도훈\Image_Rotation\main.cpp(120,9): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\topia1998\Desktop\족보\컴퓨터비전\과제\1\Image_Rotation_Exercise_20171663_이도훈\Image_Rotation\main.cpp(172,58): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\topia1998\Desktop\족보\컴퓨터비전\과제\1\Image_Rotation_Exercise_20171663_이도훈\Image_Rotation\main.cpp(172,36): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\topia1998\Desktop\족보\컴퓨터비전\과제\1\Image_Rotation_Exercise_20171663_이도훈\Image_Rotation\main.cpp(174,61): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  _2Image_Rotation.vcxproj -> C:\Users\topia1998\Desktop\족보\컴퓨터비전\과제\1\Image_Rotation_Exercise_20171663_이도훈\Debug\Image_Rotation.exe
